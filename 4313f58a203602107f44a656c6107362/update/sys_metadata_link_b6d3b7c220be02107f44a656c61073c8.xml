@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5d77b8da47410200e90d87e8dee49040</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_request">
+    <change_request action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>approved</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</assignment_group>
+        <backout_plan>Check the previous version of the switchport config in the configuration management database and revert</backout_plan>
+        <business_duration/>
+        <business_service/>
+        <cab_date/>
+        <cab_date_time/>
+        <cab_delegate/>
+        <cab_recommendation/>
+        <cab_required>false</cab_required>
+        <calendar_duration/>
+        <category>Other</category>
+        <change_plan/>
+        <chg_model/>
+        <close_code>successful</close_code>
+        <close_notes>Closed successfully</close_notes>
+        <closed_at>2015-07-06 14:22:05</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <conflict_last_run/>
+        <conflict_status>Not Run</conflict_status>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Change the port of a Cisco switch to a new VLAN. This would commonly occur when moving a server from one IP network to another.</description>
+        <due_date/>
+        <end_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <implementation_plan>--Logon to the switch using SSH&#13;
+--Type the following commands&#13;
+&#13;
+switch# configure terminal&#13;
+switch(config)# interface {type slot/port | port-channel number}&#13;
+switch(config-if)# switchport access vlan vlan-id&#13;
+&#13;
+For example&#13;
+&#13;
+switch# configure terminal&#13;
+switch(config)# interface Gi1/1&#13;
+switch(config-if)# switchport access vlan 101&#13;
+&#13;
+--Save the switch config file</implementation_plan>
+        <justification/>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>CHG0000022</number>
+        <on_hold>false</on_hold>
+        <on_hold_reason/>
+        <on_hold_task/>
+        <opened_at>2015-07-06 14:20:38</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <outside_maintenance_schedule>false</outside_maintenance_schedule>
+        <parent/>
+        <phase>requested</phase>
+        <phase_state>open</phase_state>
+        <priority>4</priority>
+        <production_system>false</production_system>
+        <reason/>
+        <reassignment_count>2</reassignment_count>
+        <rejection_goto/>
+        <requested_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</requested_by>
+        <requested_by_date/>
+        <review_comments/>
+        <review_date/>
+        <review_status/>
+        <risk>3</risk>
+        <risk_impact_analysis/>
+        <route_reason/>
+        <scope>3</scope>
+        <service_offering/>
+        <short_description>Change VLAN on a Cisco switchport</short_description>
+        <sla_due/>
+        <start_date/>
+        <state>3</state>
+        <std_change_producer_version display_value="Change VLAN on a Cisco switchport - 1">f1c8d15147810200e90d87e8dee490f9</std_change_producer_version>
+        <sys_class_name>change_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-07-06 14:20:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5d77b8da47410200e90d87e8dee49040</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-07-06 14:22:05</sys_updated_on>
+        <task_effective_number>CHG0000022</task_effective_number>
+        <test_plan>Run the "show vlan 101" command to view the new configuration (changing 101 for the correct VLAN number)</test_plan>
+        <time_worked/>
+        <type>standard</type>
+        <unauthorized>false</unauthorized>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2015-07-06 14:21:53</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2015-07-06 14:21:50</work_start>
+    </change_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:13:36</sys_created_on>
+        <sys_id>b6d3b7c220be02107f44a656c61073c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHG0000022</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_b6d3b7c220be02107f44a656c61073c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:13:36</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

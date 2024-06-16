@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>05147c3ec0a8016600da5b1a92269b3d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="problem">
+    <problem action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Problem Coordinator B">38cb3f173b331300ad3cc9bb34efc4d6</assigned_to>
+        <assignment_group display_value="Problem Solving" name="Problem Solving">6fcd3b573b331300ad3cc9bb34efc447</assignment_group>
+        <business_duration>2016-01-01 00:00:00</business_duration>
+        <business_service/>
+        <calendar_duration>2016-01-01 00:01:52</calendar_duration>
+        <category>database</category>
+        <cause_notes/>
+        <close_notes/>
+        <closed_at>2023-09-05 06:08:09</closed_at>
+        <closed_by/>
+        <cmdb_ci display_value="lawson_db">60cac7f8c0a8010e01ad2bfb8ae637ef</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <confirmed_at>2023-12-24 17:39:07</confirmed_at>
+        <confirmed_by display_value="Problem Coordinator B">38cb3f173b331300ad3cc9bb34efc4d6</confirmed_by>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Lawson DB seems to be running slowly. Tried several things and need to find the root cause</description>
+        <due_date/>
+        <duplicate_of/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <first_reported_by_task/>
+        <fix_at/>
+        <fix_by/>
+        <fix_communicated_at/>
+        <fix_communicated_by/>
+        <fix_notes/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <known_error>false</known_error>
+        <location/>
+        <made_sla>true</made_sla>
+        <major_problem>false</major_problem>
+        <number>PRB0000032</number>
+        <opened_at>2023-09-05 06:06:17</opened_at>
+        <opened_by display_value="Ron Kettering">62d78687c0a8010e00b3d84178adc913</opened_by>
+        <order/>
+        <parent/>
+        <priority>5</priority>
+        <problem_state>103</problem_state>
+        <reassignment_count>1</reassignment_count>
+        <rejection_goto/>
+        <related_incidents/>
+        <reopen_count>0</reopen_count>
+        <reopened_at/>
+        <reopened_by/>
+        <resolution_code/>
+        <resolved_at/>
+        <resolved_by/>
+        <review_outcome/>
+        <rfc/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Lawson DB seems to be running slowly</short_description>
+        <sla_due/>
+        <state>103</state>
+        <subcategory>oracle</subcategory>
+        <sys_class_name>problem</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2023-09-05 06:07:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05147c3ec0a8016600da5b1a92269b3d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-08 06:45:53</sys_updated_on>
+        <task_effective_number>PRB0000032</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <workaround/>
+        <workaround_applied>false</workaround_applied>
+        <workaround_communicated_at/>
+        <workaround_communicated_by/>
+    </problem>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:51</sys_created_on>
+        <sys_id>7ff2ff4e207e02107f44a656c6107343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB0000032</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_7ff2ff4e207e02107f44a656c6107343</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:51</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

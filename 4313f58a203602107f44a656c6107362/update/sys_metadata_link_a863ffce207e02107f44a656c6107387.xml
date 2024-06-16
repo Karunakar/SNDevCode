@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>46fb0230a9fe198101a23f6712475e11</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="problem">
+    <problem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Problem Coordinator A">73ab3f173b331300ad3cc9bb34efc4df</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <category>software</category>
+        <cause_notes/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <confirmed_at>2022-12-31 23:48:36</confirmed_at>
+        <confirmed_by display_value="Problem Coordinator A">73ab3f173b331300ad3cc9bb34efc4df</confirmed_by>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <duplicate_of/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <first_reported_by_task display_value="INC0000006">8d6246c7c0a80164012fb063cecd4ace</first_reported_by_task>
+        <fix_at/>
+        <fix_by/>
+        <fix_communicated_at/>
+        <fix_communicated_by/>
+        <fix_notes/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <known_error>false</known_error>
+        <location/>
+        <made_sla>false</made_sla>
+        <major_problem>false</major_problem>
+        <number>PRB0000008</number>
+        <opened_at>2022-12-29 00:06:28</opened_at>
+        <opened_by display_value="Ron Kettering">62d78687c0a8010e00b3d84178adc913</opened_by>
+        <order/>
+        <parent/>
+        <priority>5</priority>
+        <problem_state>102</problem_state>
+        <reassignment_count/>
+        <rejection_goto/>
+        <related_incidents>1</related_incidents>
+        <reopen_count>0</reopen_count>
+        <reopened_at/>
+        <reopened_by/>
+        <resolution_code/>
+        <resolved_at/>
+        <resolved_by/>
+        <review_outcome/>
+        <rfc/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Hang when trying to print VISIO document</short_description>
+        <sla_due/>
+        <state>102</state>
+        <subcategory/>
+        <sys_class_name>problem</sys_class_name>
+        <sys_created_by>david.loo</sys_created_by>
+        <sys_created_on>2022-12-29 00:06:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46fb0230a9fe198101a23f6712475e11</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 09:38:50</sys_updated_on>
+        <task_effective_number>PRB0000008</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval/>
+        <upon_reject/>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <workaround/>
+        <workaround_applied>false</workaround_applied>
+        <workaround_communicated_at/>
+        <workaround_communicated_by/>
+    </problem>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:11:32</sys_created_on>
+        <sys_id>a863ffce207e02107f44a656c6107387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB0000008</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_a863ffce207e02107f44a656c6107387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:11:32</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

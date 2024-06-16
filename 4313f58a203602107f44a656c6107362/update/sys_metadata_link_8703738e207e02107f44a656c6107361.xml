@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>202340cc47410200e90d87e8dee490fb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="std_change_proposal">
+    <std_change_proposal action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>approved</approval>
+        <approval_history/>
+        <approval_set>2015-06-29 10:54:51</approval_set>
+        <assigned_to display_value="Change Manager">f8588956937002002dcef157b67ffb98</assigned_to>
+        <assignment_group display_value="Change Management" name="Change Management">a715cd759f2002002920bde8132e7018</assignment_group>
+        <business_duration/>
+        <business_justification/>
+        <business_service/>
+        <calendar_duration/>
+        <catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</catalog>
+        <category display_value="Server Standard Changes">b3ecbbbf47700200e90d87e8dee49081</category>
+        <change_requests/>
+        <close_notes/>
+        <closed_at>2015-06-29 10:54:51</closed_at>
+        <closed_by display_value="Change Manager">f8588956937002002dcef157b67ffb98</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <created_from_change/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>STDCHG0000001</number>
+        <opened_at>2015-06-29 10:49:13</opened_at>
+        <opened_by display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <proposal_type>1</proposal_type>
+        <reassignment_count>1</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Reboot Windows Server</short_description>
+        <sla_due/>
+        <state>3</state>
+        <std_change_producer/>
+        <std_change_producer_version display_value="Reboot Windows Server - 1">923504cc47410200e90d87e8dee490e2</std_change_producer_version>
+        <sys_class_name>std_change_proposal</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2015-06-29 10:49:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>202340cc47410200e90d87e8dee490fb</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>Change.Manager</sys_updated_by>
+        <sys_updated_on>2015-06-29 10:54:51</sys_updated_on>
+        <task_effective_number>STDCHG0000001</task_effective_number>
+        <template_name>Reboot Windows Server</template_name>
+        <template_value>short_description=Reboot Windows Server^description=Reboot a Windows Server (after patching or to clear a fault) making sure that it is removed from monitoring alerts, that network attached storage is unmounted and that it restarts cleanly^implementation_plan=--In the server monitoring console set the server to "Maintenance mode" to prevent alerts being sent&#13;
+--If the server has network attached storage (NFS or iSCSI) stop any file server applications and unmount the storage&#13;
+--Reboot the server4. Check the Windows system log for any error messages&#13;
+--In the server monitoring console set the server back to "Operational" mode^backout_plan=There is no backout plan for this change template^test_plan=Ensure that the monitoring console is all green for this server before closing change request^EQ^type=standard</template_value>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </std_change_proposal>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:10:05</sys_created_on>
+        <sys_id>8703738e207e02107f44a656c6107361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STDCHG0000001</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_8703738e207e02107f44a656c6107361</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:10:05</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

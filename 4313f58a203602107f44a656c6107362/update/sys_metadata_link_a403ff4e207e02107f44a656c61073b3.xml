@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0dc1ffc5bc3202107f44362d5d2a171d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="task">
+    <task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>processed</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id>instanceConfigurator</correlation_id>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Update MID Status to Down on Startup</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TASK0020315</number>
+        <opened_at>2024-06-13 17:30:34</opened_at>
+        <opened_by display_value="Lucius Best">f18f3a0060d632007f44c64fabb131c8</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>updateSet</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>task</sys_class_name>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0dc1ffc5bc3202107f44362d5d2a171d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:00:42</sys_updated_on>
+        <task_effective_number>TASK0020315</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2024-06-13 18:00:42</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </task>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/xml</content_type>
+        <file_name>Update MID Status to Down on Startup.xml</file_name>
+        <hash>ff7fe0f0f57aeebfdcc3484155ce50ad971f28e20f320c47f1ee0f12fe432840</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4275</size_bytes>
+        <size_compressed>1536</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:34</sys_created_on>
+        <sys_id>0dc1ffc5bc3202107f44362d5d2a1757</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:00:42</sys_updated_on>
+        <table_name>task</table_name>
+        <table_sys_id>0dc1ffc5bc3202107f44362d5d2a171d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Update MID Status to Down on Startup.xml" sys_id="0dc1ffc5bc3202107f44362d5d2a1757">0dc1ffc5bc3202107f44362d5d2a1757</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:34</sys_created_on>
+        <sys_id>4dc1ffc5bc3202107f44362d5d2a1757</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2036</length>
+        <position>1</position>
+        <sys_attachment display_value="Update MID Status to Down on Startup.xml" sys_id="0dc1ffc5bc3202107f44362d5d2a1757">0dc1ffc5bc3202107f44362d5d2a1757</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:34</sys_created_on>
+        <sys_id>cdc1ffc5bc3202107f44362d5d2a1757</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:55</sys_created_on>
+        <sys_id>a403ff4e207e02107f44a656c61073b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TASK0020315</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_a403ff4e207e02107f44a656c61073b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:55</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

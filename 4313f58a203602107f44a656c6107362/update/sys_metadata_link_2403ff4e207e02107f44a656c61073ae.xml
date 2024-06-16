@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0d036ce4532023004247ddeeff7b12a8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="problem">
+    <problem action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Problem Coordinator A">73ab3f173b331300ad3cc9bb34efc4df</assigned_to>
+        <assignment_group/>
+        <business_duration>2016-01-01 00:00:00</business_duration>
+        <business_service/>
+        <calendar_duration>2016-01-01 00:01:36</calendar_duration>
+        <category>software</category>
+        <cause_notes/>
+        <close_notes/>
+        <closed_at>2023-09-12 06:59:05</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <confirmed_at/>
+        <confirmed_by/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <duplicate_of display_value="PRB0000055">051e8f6cc0a8016600cdf7fd19e10414</duplicate_of>
+        <escalation>0</escalation>
+        <expected_start/>
+        <first_reported_by_task/>
+        <fix_at/>
+        <fix_by/>
+        <fix_communicated_at/>
+        <fix_communicated_by/>
+        <fix_notes/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <known_error>false</known_error>
+        <location/>
+        <made_sla>true</made_sla>
+        <major_problem>false</major_problem>
+        <number>PRB0000105</number>
+        <opened_at>2023-09-12 06:57:29</opened_at>
+        <opened_by display_value="Ron Kettering">62d78687c0a8010e00b3d84178adc913</opened_by>
+        <order/>
+        <parent/>
+        <priority>5</priority>
+        <problem_state>107</problem_state>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <related_incidents>0</related_incidents>
+        <reopen_count>0</reopen_count>
+        <reopened_at/>
+        <reopened_by/>
+        <resolution_code>duplicate</resolution_code>
+        <resolved_at/>
+        <resolved_by/>
+        <review_outcome/>
+        <rfc/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Email system is down again</short_description>
+        <sla_due/>
+        <state>107</state>
+        <subcategory>email</subcategory>
+        <sys_class_name>problem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-12 06:58:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0d036ce4532023004247ddeeff7b12a8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-12 06:59:05</sys_updated_on>
+        <task_effective_number>PRB0000105</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <workaround/>
+        <workaround_applied>false</workaround_applied>
+        <workaround_communicated_at/>
+        <workaround_communicated_by/>
+    </problem>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:55</sys_created_on>
+        <sys_id>2403ff4e207e02107f44a656c61073ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB0000105</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_2403ff4e207e02107f44a656c61073ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:55</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>05164252c0a80166006452a56ccd08a9</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="problem"&gt;
+    &lt;problem action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;false&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to display_value="Problem Coordinator B"&gt;38cb3f173b331300ad3cc9bb34efc4d6&lt;/assigned_to&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration&gt;2016-01-01 00:00:00&lt;/business_duration&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration&gt;2016-01-01 00:02:42&lt;/calendar_duration&gt;
+        &lt;category&gt;network&lt;/category&gt;
+        &lt;cause_notes&gt;&lt;![CDATA[ &lt;p&gt;Switch to IPv6 caused IP issues&lt;/p&gt; ]]&gt;&lt;/cause_notes&gt;
+        &lt;close_notes&gt;updated firmware&lt;/close_notes&gt;
+        &lt;closed_at&gt;2023-09-05 06:10:55&lt;/closed_at&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci display_value="ny8500-nbxs09"&gt;55b37e80c0a8010e00028a1d1a14e2d7&lt;/cmdb_ci&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;confirmed_at&gt;2023-12-24 17:39:07&lt;/confirmed_at&gt;
+        &lt;confirmed_by display_value="Problem Coordinator B"&gt;38cb3f173b331300ad3cc9bb34efc4d6&lt;/confirmed_by&gt;
+        &lt;contact_type&gt;phone&lt;/contact_type&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description&gt;Connections seem to be slow&lt;/description&gt;
+        &lt;due_date/&gt;
+        &lt;duplicate_of/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;first_reported_by_task/&gt;
+        &lt;fix_at/&gt;
+        &lt;fix_by/&gt;
+        &lt;fix_communicated_at/&gt;
+        &lt;fix_communicated_by/&gt;
+        &lt;fix_notes&gt;&lt;![CDATA[ &lt;p&gt;updated firmware&lt;/p&gt; ]]&gt;&lt;/fix_notes&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;known_error&gt;false&lt;/known_error&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;major_problem&gt;false&lt;/major_problem&gt;
+        &lt;number&gt;PRB0000053&lt;/number&gt;
+        &lt;opened_at&gt;2023-09-05 06:08:13&lt;/opened_at&gt;
+        &lt;opened_by display_value="Don Goodliffe"&gt;9ee1b13dc6112271007f9d0efdb69cd0&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;5&lt;/priority&gt;
+        &lt;problem_state&gt;107&lt;/problem_state&gt;
+        &lt;reassignment_count/&gt;
+        &lt;rejection_goto/&gt;
+        &lt;related_incidents/&gt;
+        &lt;reopen_count&gt;0&lt;/reopen_count&gt;
+        &lt;reopened_at/&gt;
+        &lt;reopened_by/&gt;
+        &lt;resolution_code&gt;fix_applied&lt;/resolution_code&gt;
+        &lt;resolved_at/&gt;
+        &lt;resolved_by/&gt;
+        &lt;review_outcome/&gt;
+        &lt;rfc/&gt;
+        &lt;route_reason/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Slow switching&lt;/short_description&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;107&lt;/state&gt;
+        &lt;subcategory/&gt;
+        &lt;sys_class_name&gt;problem&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;glide.maint&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2023-09-05 06:10:41&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;05164252c0a80166006452a56ccd08a9&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-09-08 09:45:55&lt;/sys_updated_on&gt;
+        &lt;task_effective_number&gt;PRB0000053&lt;/task_effective_number&gt;
+        &lt;time_worked/&gt;
+        &lt;universal_request/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+        &lt;workaround/&gt;
+        &lt;workaround_applied&gt;false&lt;/workaround_applied&gt;
+        &lt;workaround_communicated_at/&gt;
+        &lt;workaround_communicated_by/&gt;
+    &lt;/problem&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:51</sys_created_on>
+        <sys_id>37f2ff4e207e02107f44a656c6107346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB0000053</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_37f2ff4e207e02107f44a656c6107346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:51</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

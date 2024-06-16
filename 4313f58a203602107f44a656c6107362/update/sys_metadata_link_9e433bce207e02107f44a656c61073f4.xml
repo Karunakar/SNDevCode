@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>453c5be447810200e90d87e8dee4907f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="std_change_proposal">
+    <std_change_proposal action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>approved</approval>
+        <approval_history/>
+        <approval_set>2015-07-02 10:58:19</approval_set>
+        <assigned_to/>
+        <assignment_group display_value="Change Management" name="Change Management">a715cd759f2002002920bde8132e7018</assignment_group>
+        <business_duration/>
+        <business_justification/>
+        <business_service/>
+        <calendar_duration/>
+        <catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</catalog>
+        <category display_value="Network Standard Changes">abbcbbbf47700200e90d87e8dee49041</category>
+        <change_requests/>
+        <close_notes/>
+        <closed_at>2015-07-01 15:59:55</closed_at>
+        <closed_by display_value="Change Manager">f8588956937002002dcef157b67ffb98</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <created_from_change/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>STDCHG0000004</number>
+        <opened_at>2015-07-01 15:59:05</opened_at>
+        <opened_by display_value="Don Goodliffe">9ee1b13dc6112271007f9d0efdb69cd0</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <proposal_type>1</proposal_type>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Clear BGP sessions on a Cisco router</short_description>
+        <sla_due/>
+        <state>3</state>
+        <std_change_producer display_value="Clear BGP sessions on a Cisco router">d6c2273c47010200e90d87e8dee49004</std_change_producer>
+        <std_change_producer_version display_value="Clear BGP sessions on a Cisco router - 1">16c2273c47010200e90d87e8dee49006</std_change_producer_version>
+        <sys_class_name>std_change_proposal</sys_class_name>
+        <sys_created_by>don.goodliffe</sys_created_by>
+        <sys_created_on>2015-07-01 15:59:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>453c5be447810200e90d87e8dee4907f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-07-02 12:01:24</sys_updated_on>
+        <task_effective_number>STDCHG0000004</task_effective_number>
+        <template_name>Clear BGP sessions on a Cisco router</template_name>
+        <template_value>short_description=Clear BGP sessions on a Cisco router^description=Resend the complete BGP table to neighboring routers&#13;
+&#13;
+--Both neighbors need to support soft reset route refresh capability.&#13;
+--Stores complete BGP table of you neighbor in router memory.&#13;
+--Not a good idea on a peering router with full feed, due to the memory requirements.&#13;
+^implementation_plan=-- Place router into maintenance mode in the monitoring platform&#13;
+-- Logon to router through SSH&#13;
+-- Run the following command&#13;
+&#13;
+router(config-router)#router bgp 12345&#13;
+router(config-router)#neighbor {neighbor ip} soft-reconfig [inbound]&#13;
+router#clear ip bgp {neighbor ip} soft in&#13;
+&#13;
+-- Confirm the sessions have been cleared&#13;
+-- Place router back into operational mode in the monitoring platform^backout_plan=Due to the limited number of commands in the implementation plan it is not possible to backout the change.&#13;
+&#13;
+If required you are authorized to reboot the router if BGP fails to work^test_plan=--Confirm that there are no monitoring alerts for the router^EQ</template_value>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </std_change_proposal>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:11:07</sys_created_on>
+        <sys_id>9e433bce207e02107f44a656c61073f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STDCHG0000004</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_9e433bce207e02107f44a656c61073f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:11:07</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

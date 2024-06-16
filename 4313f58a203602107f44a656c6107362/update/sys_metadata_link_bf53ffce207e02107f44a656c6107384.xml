@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>46eaa7c9a9fe198100bbe282da0d4b7d</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="problem"&gt;
+    &lt;problem action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to display_value="Problem Coordinator B"&gt;38cb3f173b331300ad3cc9bb34efc4d6&lt;/assigned_to&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;category&gt;software&lt;/category&gt;
+        &lt;cause_notes&gt;&lt;![CDATA[
+			 &lt;p&gt;Corporate desktop apps do not support SP2&lt;/p&gt;]]&gt;&lt;/cause_notes&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at/&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;confirmed_at&gt;2022-12-29 23:48:36&lt;/confirmed_at&gt;
+        &lt;confirmed_by display_value="Problem Coordinator B"&gt;38cb3f173b331300ad3cc9bb34efc4d6&lt;/confirmed_by&gt;
+        &lt;contact_type&gt;phone&lt;/contact_type&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description&gt;SP2 is causing several applications not to work anymore.&lt;/description&gt;
+        &lt;due_date/&gt;
+        &lt;duplicate_of/&gt;
+        &lt;escalation&gt;1&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;first_reported_by_task display_value="INC0000019"&gt;46e8219ba9fe1981013806b6e04fed06&lt;/first_reported_by_task&gt;
+        &lt;fix_at/&gt;
+        &lt;fix_by/&gt;
+        &lt;fix_communicated_at/&gt;
+        &lt;fix_communicated_by/&gt;
+        &lt;fix_notes&gt;&lt;![CDATA[
+			 &lt;p&gt;Remove Windows XP SP2&lt;/p&gt;]]&gt;&lt;/fix_notes&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;known_error&gt;false&lt;/known_error&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;false&lt;/made_sla&gt;
+        &lt;major_problem&gt;false&lt;/major_problem&gt;
+        &lt;number&gt;PRB0000001&lt;/number&gt;
+        &lt;opened_at&gt;2022-12-28 23:48:36&lt;/opened_at&gt;
+        &lt;opened_by display_value="Ron Kettering"&gt;62d78687c0a8010e00b3d84178adc913&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;5&lt;/priority&gt;
+        &lt;problem_state&gt;104&lt;/problem_state&gt;
+        &lt;reassignment_count/&gt;
+        &lt;rejection_goto/&gt;
+        &lt;related_incidents&gt;1&lt;/related_incidents&gt;
+        &lt;reopen_count&gt;0&lt;/reopen_count&gt;
+        &lt;reopened_at/&gt;
+        &lt;reopened_by/&gt;
+        &lt;resolution_code/&gt;
+        &lt;resolved_at/&gt;
+        &lt;resolved_by/&gt;
+        &lt;review_outcome/&gt;
+        &lt;rfc display_value="CHG0000003"&gt;46e9b4afa9fe198101026e122b85f442&lt;/rfc&gt;
+        &lt;route_reason/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Windows XP SP2 causing errors in Enterprise&lt;/short_description&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;104&lt;/state&gt;
+        &lt;subcategory/&gt;
+        &lt;sys_class_name&gt;problem&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-12-28 23:48:36&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;46eaa7c9a9fe198100bbe282da0d4b7d&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-09-07 09:29:15&lt;/sys_updated_on&gt;
+        &lt;task_effective_number&gt;PRB0000001&lt;/task_effective_number&gt;
+        &lt;time_worked/&gt;
+        &lt;universal_request/&gt;
+        &lt;upon_approval/&gt;
+        &lt;upon_reject/&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+        &lt;workaround/&gt;
+        &lt;workaround_applied&gt;false&lt;/workaround_applied&gt;
+        &lt;workaround_communicated_at/&gt;
+        &lt;workaround_communicated_by/&gt;
+    &lt;/problem&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:11:30</sys_created_on>
+        <sys_id>bf53ffce207e02107f44a656c6107384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB0000001</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_bf53ffce207e02107f44a656c6107384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:11:30</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

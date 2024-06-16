@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>18779506eb43011008f2951ff152283a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sc_req_item">
+    <sc_req_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <backordered>false</backordered>
+        <billable>false</billable>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <cat_item display_value="Samsung Galaxy S7">84d4fcc510247200964f77ffeec6c4fc</cat_item>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <configuration_item/>
+        <contact_type/>
+        <context/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <estimated_delivery/>
+        <expected_start/>
+        <flow_context/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>RITM0000002</number>
+        <opened_at>2022-04-25 10:21:19</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <order_guide/>
+        <parent/>
+        <priority>4</priority>
+        <quantity>1</quantity>
+        <reassignment_count>0</reassignment_count>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <rejection_goto/>
+        <request display_value="REQ0000001">6eed229047801200e0ef563dbb9a71c2</request>
+        <requested_for display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</requested_for>
+        <route_reason/>
+        <sc_catalog/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <stage>request_approved</stage>
+        <state>-5</state>
+        <sys_class_name>sc_req_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 10:21:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18779506eb43011008f2951ff152283a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 10:21:36</sys_updated_on>
+        <task_effective_number>RITM0000002</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </sc_req_item>
+    <fx_price action="delete_multiple" query="id=18779506eb43011008f2951ff152283a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>18779506eb43011008f2951ff152283a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-22 00:57:29</sys_created_on>
+        <sys_id>b02a65df706271107f44a29f360a78cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-22 00:57:29</sys_updated_on>
+        <table>sc_req_item</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:59</sys_created_on>
+        <sys_id>2503338e207e02107f44a656c6107364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RITM0000002</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_2503338e207e02107f44a656c6107364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:59</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

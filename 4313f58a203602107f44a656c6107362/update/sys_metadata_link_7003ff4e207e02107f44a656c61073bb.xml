@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0e01e67737310200f212cc028e41f1a8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_request">
+    <change_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <backout_plan/>
+        <business_duration/>
+        <business_service/>
+        <cab_date/>
+        <cab_date_time/>
+        <cab_delegate/>
+        <cab_recommendation/>
+        <cab_required>false</cab_required>
+        <calendar_duration/>
+        <category>Other</category>
+        <change_plan/>
+        <chg_model/>
+        <close_code/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="bond_trade_aus">2216daf0d7820200c1ed0fbc5e6103ca</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <conflict_last_run/>
+        <conflict_status>Not Run</conflict_status>
+        <contact_type>phone</contact_type>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <end_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <implementation_plan/>
+        <justification/>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>CHG0000036</number>
+        <on_hold>false</on_hold>
+        <on_hold_reason/>
+        <on_hold_task/>
+        <opened_at>2015-08-17 20:39:53</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <outside_maintenance_schedule>false</outside_maintenance_schedule>
+        <parent/>
+        <phase>requested</phase>
+        <phase_state>open</phase_state>
+        <priority>4</priority>
+        <production_system>false</production_system>
+        <reason/>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</requested_by>
+        <requested_by_date/>
+        <review_comments/>
+        <review_date/>
+        <review_status/>
+        <risk>3</risk>
+        <risk_impact_analysis/>
+        <route_reason/>
+        <scope>3</scope>
+        <service_offering/>
+        <short_description>Perform maintenance on database server - bond_trading_uk</short_description>
+        <sla_due/>
+        <start_date/>
+        <state>-5</state>
+        <std_change_producer_version/>
+        <sys_class_name>change_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-08-17 20:40:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e01e67737310200f212cc028e41f1a8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-08-17 20:42:10</sys_updated_on>
+        <task_effective_number>CHG0000036</task_effective_number>
+        <test_plan/>
+        <time_worked/>
+        <type>normal</type>
+        <unauthorized>false</unauthorized>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2015-08-03 22:24:52</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2015-08-03 22:22:52</work_start>
+    </change_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:09:55</sys_created_on>
+        <sys_id>7003ff4e207e02107f44a656c61073bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHG0000036</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_7003ff4e207e02107f44a656c61073bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:09:55</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>67b17fc5bc3202107f44362d5d2a17b9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="task">
+    <task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>processed</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id>instanceConfigurator</correlation_id>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Nowlearning Instance Startup Job</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TASK0020297</number>
+        <opened_at>2024-06-13 17:30:27</opened_at>
+        <opened_by display_value="Lucius Best">f18f3a0060d632007f44c64fabb131c8</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>xmlUnload</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>task</sys_class_name>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67b17fc5bc3202107f44362d5d2a17b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:02:49</sys_updated_on>
+        <task_effective_number>TASK0020297</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2024-06-13 18:02:49</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </task>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/xml</content_type>
+        <file_name>sys_properties_35a92379db5cc594821fdb85ca96199d.xml</file_name>
+        <hash>9b7888c4eb12624c40dd534cca9afe350c8c0c34ef2e0535a31d4a17cee9d630</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1166</size_bytes>
+        <size_compressed>590</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:28</sys_created_on>
+        <sys_id>ebb17fc5bc3202107f44362d5d2a17ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:02:47</sys_updated_on>
+        <table_name>task</table_name>
+        <table_sys_id>67b17fc5bc3202107f44362d5d2a17b9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="sys_properties_35a92379db5cc594821fdb85ca96199d.xml" sys_id="ebb17fc5bc3202107f44362d5d2a17ec">ebb17fc5bc3202107f44362d5d2a17ec</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:28</sys_created_on>
+        <sys_id>2fb17fc5bc3202107f44362d5d2a17ec</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>jVTbcpswEH3nKzS82yABSfBg0lvSZlqnbRxPO33RCEl2lGKJSmBMM/n3iksS0+mkebK1e87u6uwRyel+m4Md10YoOXfh1HcBl1QxITdzd3V9PjlxT1MnqWSuCAP9D2ak5HMX+QhN/HACYwDRLIpnYehaqGkMLrQquC4FN4DQsit9cbk8u7rGn6/w6su719dnLZTeKEG58exfxg3Vomix6cpwBkoFNC+ULoGQpiSSclAVICP0Z5u6/IQS75DjJGIjleaYEnrD01JXPPFGIYtoBxM7O3y6JrlpAU8RJ5Fky9M9NpJiI7aY5oLLcipzNC3qxOuyTqK5vb9WeT+1qdZrsU8fMMOx14DmxBjc0caSWNw4PeBt6ZIznDXpgmg6fV81rwzXO6uQVPWUqu1AfMKNiVYFuxI4gXYrMfDjGYpngT8mdUq1AcHSICIxCo5jlkWURnF4guCaZScRJfERjGPWMy2wZ2wVw1RVskxhn3kK9IDn9XtEDA6xiyQbDpgwRU4avCN5ZT21FFvwtiO6wKhKUxv7u6SbwpDxiEeQZUGAjn0fsSxbB4wHWTs5CvtuQ4uHhioXtPGGk6F2G880f2GLrsxQsiraZ/GvheOXKX1Y4LDk/y1xgBsTe0tYP1hXQAChfaKzyB+TOkuUjb1HYR1ZK83s0+rOTtIJk97dbQrCzf39t0X+hq6iWqFs+fG24IvwvNHfj2/110hXrP79y/tw8yMQF0exP0+8nuwktRb2Wo9vxhuL00b6z0rq/AFdoqG+jgQAAA==</data>
+        <length>776</length>
+        <position>1</position>
+        <sys_attachment display_value="sys_properties_35a92379db5cc594821fdb85ca96199d.xml" sys_id="ebb17fc5bc3202107f44362d5d2a17ec">ebb17fc5bc3202107f44362d5d2a17ec</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:28</sys_created_on>
+        <sys_id>afb17fc5bc3202107f44362d5d2a17ec</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/xml</content_type>
+        <file_name>sys_properties_5069a775db5cc594821fdb85ca9619f8.xml</file_name>
+        <hash>46a9e87d015b720297026ad1a5c9c800178fe314466dd08b3b234a3e09b6e6f2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1210</size_bytes>
+        <size_compressed>607</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>e7b17fc5bc3202107f44362d5d2a17fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:02:48</sys_updated_on>
+        <table_name>task</table_name>
+        <table_sys_id>67b17fc5bc3202107f44362d5d2a17b9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="sys_properties_5069a775db5cc594821fdb85ca9619f8.xml" sys_id="e7b17fc5bc3202107f44362d5d2a17fa">e7b17fc5bc3202107f44362d5d2a17fa</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>2bb17fc5bc3202107f44362d5d2a17fa</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>jVRdb5swFH3nV1i8TgmYQBsiQtdm3VRty7q2qdYny9gmsQY2sk3SrOp/n/nYErZp7RNwfc659rnHJGePZQG2TGkuxdyFY98FTBBJuVjP3dXd+9HUPUudpBaFxBR0D0SxYXM38INg5IcjGAMYzKJ4FkHXQvVeo0rJiinDmQaYmFb6anl7eXOHvtyg1fW787vLBko2khOmPftKmSaKVw02XWlGgZFAsUoqA7jQBgvCwIbhwmxAhsn3Znn5KUi8Y56T8LWQiiGCyYalRtUs8QYli2g2x7f2AGmOC90ADhUnEbhk6SPSgiDNS0QKzoQZiyIY15qpxGvXnUQx64KSBdN/gzEtuUi8I4j1pM5z/pgedPpC5xYpsNaolR6aZ3HD5R5vtQ2jKNunn7Ei4w/1/q1V3VovhdyNiSx74gE3JFqv7PDgCNr5xcCPZ8F0Fk6GpNbPpsBpGvknMT49jWgWERLF4TSAOc2mEcHxCYzzace0wI5RSoqIrIVJYbdyKHSAl1z+jenTZAeO1wxQrqsC79EWF7XN3y0vwaKlukDLWhFb+1PUTWFIWcQiSLPJJDj1/YBmWT6hbJI1ew/Crlvf4ldDWXCy9/ovTew8/tP8lS1amV6yrpor9K+Ro9d5fSxwLPlyKI5wQ2IXCpsImwsIIJyF4SyIh6Q2FGZvz1HZTO6kovYKtt9O0hqTPj2tK8z08zP+Nl0+VKvzN+dbw64uLq8vFst7n369un8IF/cfYflj96FcRFG+kPPE68hOslPcHqu9No393tCcptL9glLnJyNgLt66BAAA</data>
+        <length>796</length>
+        <position>1</position>
+        <sys_attachment display_value="sys_properties_5069a775db5cc594821fdb85ca9619f8.xml" sys_id="e7b17fc5bc3202107f44362d5d2a17fa">e7b17fc5bc3202107f44362d5d2a17fa</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>abb17fc5bc3202107f44362d5d2a17fa</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/xml</content_type>
+        <file_name>sys_trigger_05196fb5db5cc594821fdb85ca9619d2 (6).xml</file_name>
+        <hash>0efaba2bdce046f9beea1abdfd6da08deefbe75437420bfbd33cba775d5a037a</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3249</size_bytes>
+        <size_compressed>1416</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>2bb17fc5bc3202107f44362d5d2a17e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:02:49</sys_updated_on>
+        <table_name>task</table_name>
+        <table_sys_id>67b17fc5bc3202107f44362d5d2a17b9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="sys_trigger_05196fb5db5cc594821fdb85ca9619d2 (6).xml" sys_id="2bb17fc5bc3202107f44362d5d2a17e9">2bb17fc5bc3202107f44362d5d2a17e9</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>6bb17fc5bc3202107f44362d5d2a17e9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>vVfdc9o4EH/Gf4WGhxqmBX8cECDEvTRNr+20TSaQm3vzCFkmbmzJJ8kJXNv//VaSAZOPXp9uxpNIu7/90mpXy+z1usjRHRUy4+ykHfT9NqKM8CRjq5P29eJdb9x+HTmziuUcJ8j+ixOs6Ek79MOw5w96oY8CfxoOp4NRG6ByI2MlstWKCoSJMno/fJmfXy3ii6v4+vLt6eJc43BZ5hnBGuDBdlnJjFEpY4JzyhIsUJLJMseb+A7nFZhra9TPmTnOCprEy43eJZxUBWWquY5vqeHBkgpAKsBHweTI7/kBfMj3p+abeQcIEBCCi5jwiqlIcxtbZ/aVL2ENAmtjTG+z5KGHVxWbE5GV6iNftqNxQCYhoRPi47EfjAa+T4epn4Tp0XhA8dF45lktoC7HUsXGoFae81WU4lzSmaeXzqzAGVhmmBG6ZTRJGrCOE5GlxjeGIZx5VqCzPIMQUQ9d0ZILhT4wqbQAui7RgqMvn8KZZ8AgA3HFNpMR5DzoBZD2CfIn0/Bo6mtcA+DMeJpKaozZVaw2JdXbEgtt8qnMlSLjIlObKNBnv9tpBidwKeA2xkklzGWJDOIx2ZkJWlJsLMNqe7diULXKGFZcROnot2E4SkfJEo/weOJPkjQM0+AoGUxGwWSczrxnBEEjz/MlJrfbRD+RYROJqNj+muw3lpHgDU8LUHDjNSn3lN5GgYXvCRZg0Fum3VjG81d3x7VArSxjB3qaJChYcy0jz0M6Nsijzj7CLEHC3o1sezcyiUCcwbE7d1CDkleC0B33BK1kf0XVpeAlFWrTcUneF5RwkVik2z12AJKxlHcOZbtOlj4gASyh64u04zJ+n1MstFm3i16s1HEvQN+/o2fxkJ4VZY9kut+s1wqrSkKL0x77xw1aAVcKrzTZdS39J7FtWbGuEh1ZlqLOY2fgPH23e+BAJXLQ175RqpRTz2ujl3s7L1G7L6m4ywjtQdx9wou288OhUNe/Jpzj5SMFx6DBcWwyt3V+XUKSO13NSitmahc9ibBmoemWHLrKp78uwfyDxL9ELi4zbx1LRmKWx/m6jLNiVSgPOvJS6ma0skXqbWXObii5dffXoaG/a4++giieOHZrRGZFTEwH67M87GusW8uV978qVd5rmZYRwhvzvp2gb+2ti+0pnPWP41ar5bRaUBzLKssTdHU+X6D6ogBdCxdyBYKM3iMJpSX7GvLZIv40R9xqAQSyos7rKB+Eu+O/h6x+puqGJx338mK+0P6hmvcGy4ycVuqmo6N9BXE2Ja/o3xWV6j3FCRUd90w3KaZ6C2i97iu3+dR+lZy5PxE9JYSW6heF3vBk0/k4v/jSl/Dks1WWbjr1WXa7x8jzlgBARSUVWlKEkUU5jXAX0Kh4pTrQ+H3fWNBHKqgsOZO67jSWrimpFO3s+KBHQ4C9Rep8G2+MWaRuoFfBtzNZZ1HygiLzmKIb6HC5ZR20BHimJP0ASWqqnhvEGSA6XeMFfLrgG5K6xk9Q6PvoBS7KY/On2Wxe5IY/mXTRN5BuPeo584roR83V6lvbwnB1L5ZwX2pVSD9CSHEERTZFLtTe42KEV90wDgxoOhzMnqGdMqH8QLq9oCfDGfxHOIPnw6knDHPYu5jM7n8JChrbzKufNnjjgEv1k2wXdkolAsYFMy9Gn7Eg/T+qze9176xbJ+APcYeCzw1EDzBWCIY5fxhMRulymCyHhAwng3EYpMlyPCRYzx9JLWmmPr0oeFKPDwPL2RMsoCqTrWM4KTJmUQ3qIcy625zZB9NhcCi0dVfRAhzRY4oeJeJ/ODMzXD3YQxvFUkZvz9+dXn9azLxD8h6mR79osuebPfyaKOE9SGgscbobWg9ojnWqFtNb+8sjcv4FETokp7EMAAA=</data>
+        <length>1876</length>
+        <position>1</position>
+        <sys_attachment display_value="sys_trigger_05196fb5db5cc594821fdb85ca9619d2 (6).xml" sys_id="2bb17fc5bc3202107f44362d5d2a17e9">2bb17fc5bc3202107f44362d5d2a17e9</sys_attachment>
+        <sys_created_by>ice.user</sys_created_by>
+        <sys_created_on>2024-06-13 17:30:27</sys_created_on>
+        <sys_id>ebb17fc5bc3202107f44362d5d2a17e9</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:14:28</sys_created_on>
+        <sys_id>9304b34620be02107f44a656c61073d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TASK0020297</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_9304b34620be02107f44a656c61073d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:14:28</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

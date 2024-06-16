@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>541a087adba52200a6a2b31be0b8f568</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysapproval_group">
+    <sysapproval_group action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <admin_override>false</admin_override>
+        <approval>approved</approval>
+        <approval_history/>
+        <approval_set>2023-11-20 13:13:20</approval_set>
+        <approval_user display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</approval_user>
+        <assigned_to/>
+        <assignment_group display_value="Database" name="Database">287ee6fea9fe198100ada7950d0b1b73</assignment_group>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at>2023-11-20 13:13:20</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date>2023-11-20 13:13:00</due_date>
+        <escalation>0</escalation>
+        <expected_start>2023-11-20 13:13:00</expected_start>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>GAPRV0000080</number>
+        <opened_at>2023-11-20 13:13:00</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent display_value="CHG0000077">0ecd7552db252200a6a2b31be0b8f5e6</parent>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <reject_handling>reject</reject_handling>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <state>3</state>
+        <sys_class_name>sysapproval_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 13:13:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>541a087adba52200a6a2b31be0b8f568</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 13:13:20</sys_updated_on>
+        <task_effective_number>GAPRV0000080</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <wait_for>workflow</wait_for>
+        <watch_list/>
+        <wf_activity display_value="Technical approvals">2a33b949cb020200d71cb9c0c24c9c26</wf_activity>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </sysapproval_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 20:12:31</sys_created_on>
+        <sys_id>b2933b4220be02107f44a656c61073e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GAPRV0000080</sys_name>
+        <sys_package display_value="Latest Loaner Request" source="x_snc_latest_loane">4313f58a203602107f44a656c6107362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Latest Loaner Request">4313f58a203602107f44a656c6107362</sys_scope>
+        <sys_update_name>sys_metadata_link_b2933b4220be02107f44a656c61073e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 20:12:31</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>
